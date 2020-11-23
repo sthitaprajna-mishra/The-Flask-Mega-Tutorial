@@ -1,0 +1,8 @@
+# Ignore root __pycache__ files
+__pycache__
+
+# Ignore package __pycache__ files
+app/__pycache__
+
+# Ignore .env file
+.flaskenv
